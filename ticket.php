@@ -1,6 +1,6 @@
 <?php 
-$api_key = "XfxyxkNPHIPspCGyW3Ct";
-$password = "Pass526word";
+$api_key = "";
+$password = "Password";
 $yourdomain = "swedbyterussia";
 $ticket_data = json_encode(array(
   "description" => "Some details on the issue ...",
